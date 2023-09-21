@@ -2,11 +2,6 @@
 
 ## Project Description
 
-The primary goal of this project is to develop a robust deep learning model for the automatic classification of traffic signs. By leveraging convolutional neural networks (CNNs), I aim to accurately categorize traffic signs into different classes, which is crucial for applications like autonomous driving and traffic management. This project seeks to improve traffic safety and efficiency by automating the recognition of road signs.
-# Traffic Sign Image Classification
-
-## Project Description
-
 The primary goal of this project is to develop a robust deep learning model for the automatic classification of traffic signs. By leveraging convolutional neural networks (CNNs), we aim to accurately categorize traffic signs into different classes, which is crucial for applications like autonomous driving and traffic management. This project seeks to improve traffic safety and efficiency by automating the recognition of road signs.
 
 ## Dataset
