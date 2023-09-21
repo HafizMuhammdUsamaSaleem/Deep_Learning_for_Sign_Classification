@@ -1,4 +1,4 @@
-# Deep_Learning_for_Sign_Classification
+# Deep_Learning_for_Traffic_Sign_Classification
 
 ## Project Description
 
